@@ -9,7 +9,7 @@ A professional-grade GitHub repository showcasing elite-level competence in sour
 * **Legacy Code Refactoring:** Streamlining existing architectures to maximize readability, maintainability, and execution performance while strictly preserving behavioral logic.
 * **Seamless Feature Implementation:** Engineering and docking custom tools, data automations, and advanced extensions into active codebases with zero friction.
 * **Regression-Free Deployments:** Ensuring high-fidelity code modifications backed by defensive programming to safeguard core application stability.
-  • **User Interface (GUI) Enhancement:** Capable of wrapping backend Python scripts into clean, functional graphical user interfaces (using Tkinter/CustomTkinter) to ensure a user-friendly experience.
+* **User Interface (GUI) Enhancement:** Capable of wrapping backend Python scripts into clean, functional graphical user interfaces (using Tkinter/CustomTkinter) to ensure a user-friendly experience.
   
   
 
